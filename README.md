@@ -15,7 +15,7 @@ This project is a **content-based Movie Recommender System** built using machine
 ---
 
 ## 📸 Application Preview
-![Movie Recommender System](img-2.png)
+![Movie Recommender System](Screenshots/img-1.png)
 
 ---
 
