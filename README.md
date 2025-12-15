@@ -55,6 +55,18 @@ This project is a **content-based Movie Recommender System** built using machine
 ---
 
 ## ▶️ How to Run the Project
-1. Clone the repository  
-```bash
-git clone https://github.com/your-username/movie-recommender-system.git
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/info-ajaychitroda96011/Movie_Recommendation_Project.git
+
+2. Change directory:
+   ```bash
+   cd movie-recommender-system
+
+3. Run the Streamlit app:
+   ```bash
+   streamlit run frontend.py
+
+---
+
+ 
