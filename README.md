@@ -69,4 +69,7 @@ This project is a **content-based Movie Recommender System** built using machine
 
 ---
 
+## 👤 Author
+**Ajay Chitroda**  
+Data Analyst | Data Scientist 
  
