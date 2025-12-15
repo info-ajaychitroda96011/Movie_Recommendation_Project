@@ -32,7 +32,7 @@ This project is a **content-based Movie Recommender System** built using machine
 - **Model Type:** Content-Based Recommendation System  
 - **Algorithm:** Cosine Similarity  
 - **Vectorization:** TF-IDF / Count Vectorizer  
-- **Similarity Metric:** Cosine Distance  
+  
 
 ---
 
@@ -47,7 +47,7 @@ This project is a **content-based Movie Recommender System** built using machine
 ---
 
 ## 📂 Dataset Information
-- Source: Public Movie Dataset  
+- Source: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata 
 - Format: CSV  
 - Records: 10,000+ movies  
 - Features: Title, Genres, Overview, Keywords, Cast, Crew  
